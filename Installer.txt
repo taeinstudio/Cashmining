@@ -1,0 +1,1 @@
+apt upgrade && apt update && pkg update && pkg upgrade && pkg install python && pip install requests && pip install bs4 && pkg install openssh && pkg install git && pkg install php && 
